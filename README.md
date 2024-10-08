@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JuditoCHAN
-- 👀 I’m interested in videogames, languages and food
 - 🌱 I’m currently learning web development
 
 
